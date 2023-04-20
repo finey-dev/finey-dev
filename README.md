@@ -45,16 +45,18 @@ Just another dude who thinks is passionate about computers & stuff but really is
 
 <br/>
 
+
 ## 💡 FRAMEWORKS
 
+
 <br/>
+
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original-wordmark.svg" />
 
 <img align="left" alt="Android" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />    
-
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 
@@ -67,12 +69,14 @@ Just another dude who thinks is passionate about computers & stuff but really is
 <img align="left" alt="HTML5" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 
 
-
 <br/>
+
 
 ## 💼 TOOLS
 
+
 <br/>
+
 
 <img align="left" alt="Kotlin" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
                 
@@ -92,16 +96,13 @@ Just another dude who thinks is passionate about computers & stuff but really is
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
-
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" />
 
-
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" />
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
 
@@ -113,16 +114,14 @@ Just another dude who thinks is passionate about computers & stuff but really is
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 
-
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original-wordmark.svg" />
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
 
-      
-<br />
-<br />
+
+<br/>
 
 
 ## Reach me at🌐   
