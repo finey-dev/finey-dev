@@ -4,13 +4,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&pause=1000&color=00BFBF&width=435&lines=Hi%F0%9F%91%8B%2C+Im+Finey+Otieno%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Experienced+,+Talented+,+&+Creative+Developer+with+extensive+knowledge%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Electrical+Engineer+Student%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Currently+into+Machine+Learning+,+Game+Development+&+Flutter+Cross+platform+software+development+mostly:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&pause=1000&color=00BFBF&width=435&lines=Hi%F0%9F%91%8B%2C+i'm+Finey+Otieno;Experienced,+Talented,+&+Creative+Developer+with+extensive+knowledge;Electrical+Engineer+Student;I'm+into+Machine+Learning,+Game+Development+&+Flutter+Cross+platform+software+development+mostly:%29;Currently+enjoying+providing+solutions+with+flutter)](https://git.io/typing-svg)
 
 </div>
 
 
 ****
 Just another dude who thinks is passionate about computers & stuff but really is an Electrical Engineer student. Should i just switch careers, don't know, don't care! Whatever brings money not happiness, Right!!!
+
 
 <br/>
 
