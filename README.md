@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&pause=1000&color=00BFBF&width=435&lines=Hi%F0%9F%91%8B%2C+i'm+Finey+Otieno;Experienced,+Talented,+and+Creative+Developer+with+extensive+knowledge;Electrical+Engineer+Student;I'm+into+Machine+Learning,+Game+Development+and+Flutter+Cross+platform+software+development+mostly:%29;Currently+enjoying+providing+solutions+with+flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&pause=1000&color=00BFBF&width=1000&lines=Hi%F0%9F%91%8B%2C+i'm+Finey+Otieno;Experienced,+Talented,+and+Creative+Developer+with+extensive+knowledge;Electrical+Engineer+Student;I'm+into+Machine+Learning,+Game+Development+and+Flutter+Cross+platform+software+development+mostly:%29;Currently+enjoying+providing+solutions+with+flutter)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,6 +31,8 @@ Just another dude who thinks is passionate about computers & stuff but really is
 <img align="left" alt="git" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+
+<br/>
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
@@ -60,6 +62,8 @@ Just another dude who thinks is passionate about computers & stuff but really is
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 
+<br/>
+
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
@@ -88,6 +92,8 @@ Just another dude who thinks is passionate about computers & stuff but really is
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
+<br/>
+
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
@@ -97,6 +103,8 @@ Just another dude who thinks is passionate about computers & stuff but really is
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
+<br/>
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" />
 
@@ -108,6 +116,8 @@ Just another dude who thinks is passionate about computers & stuff but really is
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
+<br/>
+
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -117,6 +127,8 @@ Just another dude who thinks is passionate about computers & stuff but really is
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original-wordmark.svg" />
+
+<br/>
 
 <img align="left" alt="gradle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
 
