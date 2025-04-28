@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22696
-Fork on GitHub
-7537
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Finey O. Akwoyo</h1>
 <h3 align="center">I’m a full-stack code tinkerer who thinks in both zeros - and - ones and spreadsheets - and - stream-keys. By day (and often by night), I architect custom ERPs, wrangle APIs, and keep thousands of music - and-movie fans happily streaming - sometimes from a not so smartphone hotspot that insists on taking surprise coffee breaks. I build cross - platform apps that pop up everywhere: mobile, desktop, web, you name it. When a network hiccup or database issue shows up, I’m the “bring-it-on” kind of problem solver who somehow keeps calm despite of the situation at hand. Off the clock, you’ll find me chasing bugs like they owe me money, crafting scripts to turn CSV chaos into clean order, or kicking off random-seed generators to portrait you as anything from a pixel-art penguin to a croodles-era astronaut. I speak React, Flutter, Python—and the occasional mumble of frustration when oxygen levels drop at 2 AM. If you need someone who’ll debug your life as readily as your code, and still have a laugh about it, let’s connect!</h3>
 
@@ -51,28 +35,3 @@ preview
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=finey-dev&show_icons=true&locale=en&layout=compact" alt="finey-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finey-dev&" alt="finey-dev" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
